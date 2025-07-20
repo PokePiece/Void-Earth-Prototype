@@ -1,5 +1,7 @@
 # Void Intelligence Earth
 
+## AI Python Assistant
+
 This project implements a basic AI assistant using the **GPT-2** model to generate responses to user input. The model is hosted locally and interacts with users in a chat-like interface, allowing for flexible responses based on the given **tone** and **style** profile.
 
 ## Features
