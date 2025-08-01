@@ -54,7 +54,7 @@ bash
 
 CopyEdit
 
-`python main.py`
+`python aichat.py`
 
 4.  You’ll be prompted with a chat interface where you can interact with the assistant. Type your query and press Enter to receive a response.
     
